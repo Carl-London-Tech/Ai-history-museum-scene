@@ -12,22 +12,6 @@ walls.addComponent(new Transform({
 }))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // 1941
 const year_1941 = new Entity()
 engine.addEntity(year_1941)
@@ -64,25 +48,6 @@ year_1941.addComponent(new OnClick(event =>{
         log("ELSE BUTTON!")
     }
 }))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // 1941
@@ -126,17 +91,6 @@ year_1950.addComponent(new OnClick(event =>{
 }))
 
 
-
-
-
-
-
-
-
-
-
-
-
 // 1951
 const year_1951 = new Entity()
 engine.addEntity(year_1951)
@@ -176,73 +130,6 @@ year_1951.addComponent(new OnClick(event =>{
         log("ELSE BUTTON!")
     }
 }))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // 1965
@@ -290,20 +177,6 @@ year_1965.addComponent(new OnClick(event =>{
 }))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // 1997_1
 const year_1997 = new Entity()
 engine.addEntity(year_1997)
@@ -345,22 +218,6 @@ year_1997.addComponent(new OnClick(event =>{
 }))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // 2017_1
 const year_2017 = new Entity()
 engine.addEntity(year_2017)
@@ -400,6 +257,3 @@ year_2017.addComponent(new OnClick(event =>{
         log("ELSE BUTTON!")
     }
 }))
-
-
-
