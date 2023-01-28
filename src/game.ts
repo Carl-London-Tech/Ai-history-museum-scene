@@ -1,6 +1,5 @@
-// movable object
-// https://github.com/HardlyDifficult/dcl-escape-room-tutorial/tree/master/03-trigger-complete/src/gameObjects
 
+// please note this was created before I spent time learning how to program in order to meet the hackathon 
 
 
 // 1941
